@@ -1,4 +1,4 @@
-# antihyip_plus pre-alpha
+# antihyip_plus
 > Нет хайп, нет проблем!
 
 Тот самый antihyip, только всё в одном!
