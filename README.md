@@ -1,4 +1,3 @@
-# antihyip_plus
 ![Логотип](ascii-text-art.png)
 > Нет хайп, нет проблем!
 
